@@ -6,6 +6,11 @@ import "fmt"
 
 	
 
-func main() {
-    fmt.Println("hello world")
+func GetListNotes() {
+     // TODO code 
+}
+
+
+func AddNewNote() {
+   // TODO code 
 }
