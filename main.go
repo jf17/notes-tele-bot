@@ -14,3 +14,7 @@ func GetListNotes() {
 func AddNewNote() {
    // TODO code 
 }
+
+func DeleteNote() {
+	// TODO code 
+ }
