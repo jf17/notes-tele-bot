@@ -18,3 +18,8 @@ func AddNewNote() {
 func DeleteNote() {
 	// TODO code 
  }
+ 
+ 
+func parseFile() {
+	// TODO code 
+ }
