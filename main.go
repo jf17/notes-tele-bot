@@ -2,9 +2,16 @@ package notestelebot
 
 	
 
-import "fmt"
+import (
+	//"strconv"
+	"time"
+)
 
-	
+type Notes struct {
+	Create,LastEdit time.Time // время создания заметки и время последнего редактирования
+	Note string // заметки
+	Tag []string // тэги
+}
 
 func GetListNotes() {
      // TODO code 
